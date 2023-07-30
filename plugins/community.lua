@@ -10,8 +10,13 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.go" },
-  { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.pack.bash" },
+  { import = "astrocommunity.pack.proto" },
   { import = "astrocommunity.editing-support.neogen"},
-  { import = "astrocommunity.motion.harpoon"}
-
+  { import = "astrocommunity.motion.harpoon"},
+  { import = "astrocommunity.scrolling.cinnamon-nvim"},
+  { import = "astrocommunity.motion.mini-move"},
+  { import = "astrocommunity.colorscheme.catppuccin"},
+  { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline"},
+  { import = "astrocommunity.editing-support.yanky-nvim"}
 }
