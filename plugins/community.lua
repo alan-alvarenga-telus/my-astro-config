@@ -16,9 +16,10 @@ return {
   { import = "astrocommunity.motion.harpoon"},
   { import = "astrocommunity.scrolling.cinnamon-nvim"},
   { import = "astrocommunity.motion.mini-move"},
-  { import = "astrocommunity.colorscheme.catppuccin"},
+  -- { import = "astrocommunity.colorscheme.catppuccin"},
   { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline"},
   { import = "astrocommunity.editing-support.yanky-nvim"},
   { import = "astrocommunity.editing-support.todo-comments-nvim"},
-  { import = "astrocommunity.motion.flash-nvim"}
+  { import = "astrocommunity.motion.flash-nvim"},
+  { import = "astrocommunity.colorscheme.onedarkpro-nvim" }
 }
