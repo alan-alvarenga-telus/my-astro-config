@@ -21,5 +21,6 @@ return {
   { import = "astrocommunity.editing-support.yanky-nvim"},
   { import = "astrocommunity.editing-support.todo-comments-nvim"},
   { import = "astrocommunity.motion.flash-nvim"},
-  { import = "astrocommunity.colorscheme.dracula-nvim"}
+  { import = "astrocommunity.colorscheme.tokyonight-nvim"},
+  { import = "astrocommunity.utility.telescope-fzy-native-nvim"}
 }
