@@ -9,4 +9,5 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  "theHamsta/nvim-dap-virtual-text",
 }
